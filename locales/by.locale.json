@@ -1,0 +1,25 @@
+{
+    "global_errors": {
+        "nobotperms": "Бот павiнен мець права {{permission}} для выканання гэтай каманды.",
+        "nouserperm": "Вы павiнны мець права {{permission}} для выканання гэтай каманды."
+    },
+    "commands": {
+        "test": {
+            "success": "Усё працуе."
+        },
+        "codewars": {
+            "help": "{{prefix}}codewars link - атрымаць код для прывязки. Прывязать можна толькi 1 аккаунт.\n{{prefix}}codewars check <нiк> - праверыць прывязку з нiкам. У карыстача павiнен быць устаноўлены атрыманы раней код як клан.",
+            "code_dm": "Ваш код для прывязкi - {{code}}.",
+            "dm_success": "Код адпраўлены вам.",
+            "dm_fail": "Немагчыма адправiць код вам, адкрыйце асабiстыя паведамленнi i паўтарыце спробу.",
+            "ealready_linked": "Да вашага акаўнту ужо прывязан профiль CodeWars - {{nickname}}.",
+            "ewrong_check_format": "Выарыстаннне - {{prefix}}codewars check <нiк>.",
+            "enot_found": "Профiль не знойдзены.",
+            "success_linked": "Паспяхова прывязаны профiль - {{nickname}}.",
+            "ealready_in_use": "Гэты профіль ужо прывязаны.",
+            "einvalid_link": "Код у профiлi не пазначаны.",
+            "elink_first": "Спачатку прывяжыце профiль.",
+            "claim_success": "Вам выдадзена роля за {{kyu}} kyu."
+        }
+    }
+}
