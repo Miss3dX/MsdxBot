@@ -20,6 +20,13 @@
             "einvalid_link": "Код у профiлi не пазначаны.",
             "elink_first": "Спачатку прывяжыце профiль.",
             "claim_success": "Вам выдадзена роля за {{kyu}} kyu."
+        },
+        "information": {
+            "embed_title": "Iнфармацыя аб боце:",
+            "embed_description": "Разработчык(-i): {{developer}}.\nNode.JS: {{njsv}}.\nDiscord.JS: {{djsv}}.\nСервераў: {{guilds}}.\nКарыстачоў: {{users}}."
+        },
+        "evaluate": {
+            "nocode": "Код не пазначаны."
         }
     }
 }

@@ -20,6 +20,13 @@
             "einvalid_link": "Код в профиле не указан.",
             "elink_first": "Сначала привяжите профиль.",
             "claim_success": "Вам выдана роль за {{kyu}} kyu."
+        },
+        "information": {
+            "embed_title": "Информация про бота:",
+            "embed_description": "Разработчик(-и): {{developer}}.\nNode.JS: {{njsv}}.\nDiscord.JS: {{djsv}}.\nСерверов: {{guilds}}.\nПользователей: {{users}}."
+        },
+        "evaluate": {
+            "nocode": "Код не указан."
         }
     }
 }
